@@ -28,7 +28,6 @@ public class PalindromeNumber {
 		int z = 10;
 		System.out.println(isPalindrome(z));
 		
-
 	}
 
 }
